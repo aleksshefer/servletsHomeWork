@@ -1,0 +1,9 @@
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/IncomesServlet.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/SummaryServlet.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/listeners/LogAttributeChanges.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/ExpensesServlet.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/DetailsServlet.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/LoginServlet.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/handlers/ErrorHandler.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/filters/ExpensesFilter.java
+/home/aleksandr/IdeaProjects/PersFinance/src/main/java/ru/productstar/servlets/model/Transaction.java
